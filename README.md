@@ -27,4 +27,4 @@ To try the code, please run [demo.m](demo.m) under the main folder. If all goes 
 
 
 
-If you have any questions, please do not hesitate to contact me by Email kun.ding@ia.ac.cn.
+If you have any questions, please contact me by Email: kun.ding AT ia.ac.cn.
