@@ -10,7 +10,7 @@ This code implements the following paper:
   volume={19},
   number={3},
   pages={571--585},
-  year={2016}
+  year={2017}
 }
 ```
 
